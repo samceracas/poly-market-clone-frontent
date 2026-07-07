@@ -9,7 +9,7 @@ trading, and live updates (REST + Server-Sent Events).
 
 Built with React 19, Vite, Tailwind v4, shadcn/radix, TanStack Query, and recharts.
 
-🔗 Live Demo: prediction-market-frontend
+🔗 Live Demo: [prediction-market-frontend](https://prediction-market-frontend-gc4i.onrender.com/)
 
 `Note: hosted on Render free tier. Initial load may take ~30 seconds on cold start.`
 
