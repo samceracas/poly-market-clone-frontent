@@ -13,6 +13,16 @@ Built with React 19, Vite, Tailwind v4, shadcn/radix, TanStack Query, and rechar
 
 `Note: hosted on Render free tier. Initial load may take ~30 seconds on cold start.`
 
+## Screenshots
+
+**Events list**
+
+![Events list](docs/screenshots/landing-page.png)
+
+**Event page: live chart, trade panel, positions, and trade history**
+
+![Event page](docs/screenshots/event-page.png)
+
 ## Design
 
 This is a plain client, it owns no data of its own. Everything shown here comes from
