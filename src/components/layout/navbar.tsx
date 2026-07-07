@@ -28,7 +28,7 @@ export function Navbar() {
       </div>
 
       <Link to="/" className="font-heading text-base font-medium">
-        Poly Market Clone
+        Prediction Market
       </Link>
 
       <div className="w-[88px]" aria-hidden />

@@ -1,6 +1,6 @@
 import { createContext, useContext, useState, type ReactNode } from "react";
 
-const STORAGE_KEY = "poly-market-clone:userId";
+const STORAGE_KEY = "prediction-market:userId";
 
 type AuthContextValue = {
   userId: string | null;
